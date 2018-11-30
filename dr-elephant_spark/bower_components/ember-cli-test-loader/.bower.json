@@ -1,0 +1,15 @@
+{
+  "name": "ember-cli-test-loader",
+  "homepage": "https://github.com/ember-cli/ember-cli-test-loader",
+  "version": "2.2.0",
+  "_release": "2.2.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v2.2.0",
+    "commit": "57476b117aa0ec09684ecab9f805806375b5ab27"
+  },
+  "_source": "https://github.com/ember-cli/ember-cli-test-loader.git",
+  "_target": "^2.2.0",
+  "_originalSource": "ember-cli-test-loader",
+  "_direct": true
+}
